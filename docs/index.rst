@@ -8,7 +8,7 @@ In the evolving world of digital communication and cloud-based platforms, having
 
 Whether you're a first-time user or revisiting the platform, this guide will walk you through everything you need to know about MSN sign-in accounts.
 
-.. image:: click-download.png
+.. image:: click-sign-in.png
    :alt: My Project Logo
    :width: 400px
    :align: center
